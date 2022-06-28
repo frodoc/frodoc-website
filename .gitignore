@@ -3,11 +3,21 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+yarn.lock
+package-lock.json
+node_modules/
 
-*.ignoreme.*
+# Custom
+**.ignoreme.*
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
 
 # Ruby Gems
 .bundle
+Gemfile
 Gemfile.lock
 
 # Log Files
