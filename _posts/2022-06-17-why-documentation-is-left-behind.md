@@ -5,19 +5,15 @@ style: fill
 color: primary
 description: Continuous Documentation the tedious task that developers hate.
 cta_description: How to include Continuous Documentation in your culture and team? Building documentation like code.
-cta_short text: Get beta access
-cta_destination: https://frodoc.io/sign-up
+cta_short_text: Get beta access
+cta_destination: https://share.hsforms.com/1BQ2KUYTgToS0wFu9Alwk8wcpdfr
 ---
 
 ## Why documentation is left behind and outdated?
 
 When it is time to go, but you still have to document.
 
-<div align="center">
-
-![It wasn't important](https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2020/07/two-and-a-half-men-documentation-meme.jpeg?resize=300%2C300&ssl=1)
-
-</div>
+{% include elements/figure.html image="https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2020/07/two-and-a-half-men-documentation-meme.jpeg?resize=300%2C300&ssl=1" caption="It wasn't important 🤷🏽‍♂️." %}
 
 We cannot deny that good documentation will make teams more agile delivering and supporting software, it will be more easy to onboard new members on the team as well, but from another end, to be agile we need to produce working code over documentation. In other [article](./what-is-unified-modeling-language-UML) I mentioned that modeling (as part of documentation), many times is left behind and is not updated continuously. This is left behind because once development starts, developers are not updating these models, that is done by the technical lead (a.k.a. system architect, product owner, product manager, etc.), and this is not done by the people implementing because they are focused on [delivering working software over documenting](https://agilemanifesto.org), right? The chicken and the egg dilemma.
 
@@ -33,7 +29,11 @@ If you are continuously delivering, then, you must be continuously documenting, 
 
 There are many different ways to resolve a problem or different ways to use a tool, if you don't document how you expect the end user or a system integrator to use your software, then, they will end up using it in bizarre ways you never imagined.
 
-## References
+{% include elements/button.html style="primary" %}
+
+---
+
+**References**
 
 * [The Art of Scalability](http://theartofscalability.com/)
-* https://thenewstack.io/continuous-documentation-in-a-ci-cd-world/
+* [Continuous Documentation](https://thenewstack.io/continuous-documentation-in-a-ci-cd-world/)

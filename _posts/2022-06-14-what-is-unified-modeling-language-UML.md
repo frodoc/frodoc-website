@@ -14,11 +14,7 @@ In a UML model we can find "classifiers" which describes a set of objects, where
 
 Let's imagine a family: Dad, Mom, Daughter and Son are the "classifiers", family itself is a "classifier" as well; swimming, jogging, playing soccer, playing basketball, are "behaviors" that each "object" or family member executes respectively when (event) alarm rings at 5 am.
 
-<div align="center">
-
-![Family](https://unsplash.com/photos/BIk2ANMmNz4/download?ixid=MnwxMjA3fDB8MXxjb2xsZWN0aW9ufDJ8NDM2NTk3M3x8fHx8Mnx8MTY1NTMyMDM1Nw&force=true&w=480)
-
-</div>
+{% include elements/figure.html image="https://unsplash.com/photos/BIk2ANMmNz4/download?ixid=MnwxMjA3fDB8MXxjb2xsZWN0aW9ufDJ8NDM2NTk3M3x8fHx8Mnx8MTY1NTMyMDM1Nw&force=true&w=480" caption="Family." %}
 
 ## Why use UML?
 
@@ -34,7 +30,9 @@ Besides this "common language", Unified Modeling Language have following benefit
 * Product quality can be improved, because the team will have same vision.
 * Practicality - it is important and valuable that if any developer is moved to a different project, a new collaborator can be easily onboard.
 
-## References
+---
+
+**References**
 
 * [UML](https://www.uml.org)
 * [Object Management Group](https://www.omg.org/)
