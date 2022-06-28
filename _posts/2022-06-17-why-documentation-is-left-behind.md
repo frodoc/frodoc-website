@@ -6,7 +6,7 @@ color: primary
 description: Continuous Documentation the tedious task that developers hate.
 cta_description: How to include Continuous Documentation in your culture and team? Building documentation like code.
 cta_short_text: Get beta access
-cta_destination: https://share.hsforms.com/1BQ2KUYTgToS0wFu9Alwk8wcpdfr
+cta_destination: /sign-up/
 ---
 
 ## Why documentation is left behind and outdated?
